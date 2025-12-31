@@ -69,7 +69,7 @@
 - Powered by robust MIME validation for maximum safety.
 
 ### 💬 Real-Time Global Chat
-- File: [`chat_backend.php`](./chat_backend.php)
+- File: [`chat_backend.php`](./message.php)
 - Facilitates **instant, no-reload communication** using AJAX-based polling.
 - Messages from Admins feature glowing gold or gradient styles for clear visual distinction.
 
