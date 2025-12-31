@@ -137,7 +137,7 @@ StudyShare/
 ├── dashboard.php           # 🏠 Main Student Dashboard
 ├── db.sql                  # 🗄️ Database Structure (Import this!)
 ├── index.php               # 🚪 Landing Page
-├── profile.php.            # User personal customization hub
+├── profile.php             # User personal customization hub
 └── LICENSE                 # ⚖️ Legal
 ```
 ---
