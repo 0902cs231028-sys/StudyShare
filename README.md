@@ -132,11 +132,12 @@ StudyShare/
 │   └── db_connect.php      # Database Connection
 ├── uploads/                # ☁️ Storage
 │   └── avatars/            # User profile pictures
-├── chat_backend.php        # ⚡ JSON API for Global Chat
+├── message.php        # ⚡ JSON API for Global Chat
 ├── upload_file.php         # ⚡ JSON API for File Uploads
 ├── dashboard.php           # 🏠 Main Student Dashboard
 ├── db.sql                  # 🗄️ Database Structure (Import this!)
 ├── index.php               # 🚪 Landing Page
+├── profile.php.            # User personal customization hub
 └── LICENSE                 # ⚖️ Legal
 ```
 ---
